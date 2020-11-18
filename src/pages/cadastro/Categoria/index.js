@@ -74,6 +74,12 @@ import ButtonLink from '../../../components/Button';
 
         </form>
 
+        <ButtonLink>
+            <a href="/">
+             Ir para Home
+            </a>
+        </ButtonLink>
+
         <ul>
           {categorias.map((categoria, indice) => {
             return (
@@ -83,13 +89,7 @@ import ButtonLink from '../../../components/Button';
             )
           })}
         </ul>
-
         
-        <ButtonLink>
-            <a href="/">
-             Ir para Home
-            </a>
-        </ButtonLink>
       </PageDefault>
     );
   }

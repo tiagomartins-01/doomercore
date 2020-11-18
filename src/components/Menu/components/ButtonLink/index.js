@@ -1,6 +1,6 @@
 import React from 'react';
 
-function ButtonLink(props) {
+function ButtonMenu(props) {
     
     return (
         <a href={props.href} className={props.className}>
@@ -9,4 +9,4 @@ function ButtonLink(props) {
     );
 }
 
-export default ButtonLink;
+export default ButtonMenu;

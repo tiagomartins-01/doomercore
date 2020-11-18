@@ -26,11 +26,10 @@ const Button = styled.button`
                 border-radius: 240px;
                 margin-bottom: 25px;
 
-                &:hover {
+                &:focus {
                         transition: opacity .3s;
                         background-color: rgb(0,83,0);
                 }
         }
 `;
-
 export default Button
