@@ -1,0 +1,207 @@
+{
+  "categorias": [
+    {
+      "titulo": "Lo-Fi Hip Hop",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Lo-Fi Hip Hop / Chill Beats",
+          "url": "https://www.youtube.com/watch?v=lTRiuFIWV54"
+        },
+        {
+          "titulo": "2 A.M Study Session 📚 - [lofi hip hop/chill beats]",
+          "url": "https://www.youtube.com/watch?v=wAPCSnAhhC8"
+        },
+        {
+          "titulo": "Mix LoFi Hip Hop Brasil para estudar, trabalhar ou dormir ~ Vol. 1",
+          "url": "https://www.youtube.com/watch?v=EtrL_x8sceY"
+        },
+        {
+          "titulo": "i found my home in your arms - lofi hip hop mix",
+          "url": "https://www.youtube.com/watch?v=EAHzlJFPWLc"
+        },
+        {
+          "titulo": "lonely day - (8D Audio) lofi hiphop mix",
+          "url": "https://www.youtube.com/watch?v=_zL0AAf-01I"
+        },
+        {
+          "titulo": "Samurai ☯ Japanese Lofi HipHop Mix",
+          "url": "https://www.youtube.com/watch?v=jrTMMG0zJyI"
+        },
+        {
+          "titulo": "Sensei ☯ Japanese Lofi HipHop Mix",
+          "url": "https://www.youtube.com/watch?v=RLlzKraARAw"
+        }
+      ]
+    },
+    {
+      "titulo": "Psychedelic / Stoner",
+      "cor": "#6BD1FF",
+
+      "videos": [
+        {
+          "titulo": "Relaxing Psychedelic Space Rock",
+          "url": "https://www.youtube.com/watch?v=ors0wpcVDcc"
+        },
+        {
+          "titulo": "Psychedelic & Stoner Rock Compilation",
+          "url": "https://www.youtube.com/watch?v=as1QfC2L0Og"
+        },
+        {
+          "titulo": "3 hours of Psychedelic Stoner Rock Volume I",
+          "url": "https://www.youtube.com/watch?v=qRPLSKF3dXg"
+        },
+        {
+          "titulo": "Psychedelic Stoner Rock Mix #2",
+          "url": "https://www.youtube.com/watch?v=0C_69F7eLhc"
+        },
+        {
+          "titulo": "Psychedelic & Stoner Rock The Fuzz Awakens",
+          "url": "https://www.youtube.com/watch?v=CIl0dcb28QM"
+        },
+        {
+          "titulo": "Psychedelic / Stoner / Desert Rock - Playlist 15",
+          "url": "https://www.youtube.com/watch?v=COaBSEILDrI"
+        },
+        {
+          "titulo": "Psychedelic / Stoner / Desert Rock - Playlist 13",
+          "url": "https://www.youtube.com/watch?v=iMWdlt9hVXE"
+        },
+        {
+          "titulo": "5 Hours of Relaxing Psychedelic Space Rock",
+          "url": "https://www.youtube.com/watch?v=iuWa5wh8lG0"
+        }        
+      ]
+    },
+    {
+      "titulo": "Synthwave / Cyberpunk",
+      "cor": "#00C86F",
+  
+      "videos": [
+        {
+          "titulo": "Neo Tokyo - Cyberpunk Mix",
+          "url": "https://www.youtube.com/watch?v=7JqKRqOmzi0"
+        },
+        {
+          "titulo": "Cybercity - A Synthwave Mix",
+          "url": "https://www.youtube.com/watch?v=dgCnYsDTiXU"
+        },
+        {
+          "titulo": "ＳＫＹＷＡＹ [ Chillwave - Synthwave - Retrowave Mix ]",
+          "url": "https://www.youtube.com/watch?v=ICcFMBzOnYs"
+        },
+        {
+          "titulo": "'Back To The 80's' | Marvel83' Edition | Best of Synthwave And Retro Electro Music Mix",
+          "url": "https://www.youtube.com/watch?v=0QKQlf8r7ls"
+        },
+        {
+          "titulo": "Night City - Mix de músicas Synthwave e Cyberpunk",
+          "url": "https://www.youtube.com/watch?v=F7Ut2t0kDnI"
+        },
+        {
+          "titulo": "DARKNESS - Uma mistura de Cyberpunk (Dark Electro, Dark Techno)",
+          "url": "https://www.youtube.com/watch?v=2ovZgUU9kgM"
+        }, 
+        {
+          "titulo": "ASTRO - A Synthwave Mix [Chillwave - Retrowave - Synthwave]",
+          "url": "https://www.youtube.com/watch?v=XccPsuqAz4E"
+        }
+      ]
+    },
+    {
+      "titulo": "Russian Doomer Music",
+      "cor": "#9cd33b",
+
+      "videos":[
+        {
+          "titulo": "Russian Doomer Music playlist vol.1",
+          "url": "https://www.youtube.com/watch?v=2WPIPlG_CvM"
+        },
+        {
+          "titulo": "Russian Doomer Music playlist vol.2",
+          "url": "https://www.youtube.com/watch?v=N9Ar1_kxc30"
+        },
+        {
+          "titulo": "Russian Doomer Music vol.3",
+          "url": "https://www.youtube.com/watch?v=wcaZcbain2s&t=2s"
+        },
+        {
+          "titulo": "russian doomer music vol.4",
+          "url": "https://www.youtube.com/watch?v=Gf1S2QndATc"
+        },
+        {
+          "titulo": "Russian Doomer music vol.5",
+          "url": "https://www.youtube.com/watch?v=7mRamdtad1I"
+        },
+        {
+          "titulo": "Russian Doomer music vol.6",
+          "url": "https://www.youtube.com/watch?v=Ra3zm2zZJuo&t=1962s"
+        },
+        {
+          "titulo": "Russian Doomer music vol.7",
+          "url": "https://www.youtube.com/watch?v=woxXdmX3ld8"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
