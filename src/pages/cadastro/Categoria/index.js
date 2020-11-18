@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import {Link} from 'react-router-dom';
 import PageDefault from '../../../components/PageDefault';
 import FormField from '../../../components/FormField';
-import FormStyle from '../../../components/FormField';
+import ButtonLink from '../../../components/Button';
 
   function CadastroCategoria() {
     const valoresIniciais = {
@@ -32,7 +32,6 @@ import FormStyle from '../../../components/FormField';
       <PageDefault>
         <h1>
           Cadastro de Categoria:
-          {values.nome} 
         </h1>
 
         <form onSubmit={function handleSubmit(infosDoEvento) {
@@ -46,7 +45,7 @@ import FormStyle from '../../../components/FormField';
         }}>
 
           <FormField
-            label="Nome da Categoria: "
+            placeholder="Nome da Categoria"
             type="text"
             name="nome"
             value = {values.nome}
@@ -54,7 +53,7 @@ import FormStyle from '../../../components/FormField';
           />
 
           <FormField
-            label="Descrição: "
+            placeholder="Descrição"
             type="textarea"
             name="descricao"
             value = {values.descricao}
@@ -62,16 +61,16 @@ import FormStyle from '../../../components/FormField';
           />
 
           <FormField
-            label="Cor: "
+            placeholder="Cor"
             type="color"
             name="cor"
             value = {values.cor}
             onChange={handleChange}
           />
 
-           <button>
+           <ButtonLink>
              Cadastrar
-           </button>
+           </ButtonLink>
 
         </form>
 

@@ -1,19 +1,18 @@
 import React from "react";
-import "./style.css";
+import { FormFieldWrapper } from './style';
+import { Input } from './style';
 
-function FormField({ label, type, name, value, onChange }){
+function FormField({ label, type, name, value, onChange, placeholder }){
     return (
-        <div>
-            <label>
-              {label}: 
-              <input
+        <FormFieldWrapper>
+              <Input
               type={type}
               value={value}
               name={name}
               onChange={onChange}
+              placeholder={placeholder}
               />
-            </label>
-          </div>
+          </FormFieldWrapper>
     );
 }
 
