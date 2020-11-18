@@ -85,9 +85,11 @@ import ButtonLink from '../../../components/Button';
         </ul>
 
         
-        <Link to="/">
-            Ir para Home
-        </Link>
+        <ButtonLink>
+            <a href="/">
+             Ir para Home
+            </a>
+        </ButtonLink>
       </PageDefault>
     );
   }

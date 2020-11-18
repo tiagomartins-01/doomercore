@@ -38,4 +38,13 @@ border-radius: 240px;
   transition: 0.25s;
   width: 800px;
 }
+@media (max-width: 800px) {
+  width: 100%;
+
+  &:hover {
+    width: 100%;
+    border: 2px solid rgb(0,83,0);
+    transition: border-color .3s;
+  }
+}
 `;

@@ -20,6 +20,17 @@ const Button = styled.button`
         &:focus {
         opacity: .5;
         }
+
+        @media (max-width: 800px) {
+                width: 100%;
+                border-radius: 240px;
+                margin-bottom: 25px;
+
+                &:hover {
+                        transition: opacity .3s;
+                        background-color: rgb(0,83,0);
+                }
+        }
 `;
 
 export default Button
