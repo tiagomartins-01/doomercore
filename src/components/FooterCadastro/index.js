@@ -1,8 +1,8 @@
 import React from 'react';
 import Logo from '../../assets/img/Logo.png';
-import { FooterBase } from './styles';
+import { FooterBase } from './style';
 
-function Footer() {
+function FooterCadastro() {
   return (
     <FooterBase>
       <a href="/">
@@ -19,4 +19,4 @@ function Footer() {
   );
 }
 
-export default Footer;
+export default FooterCadastro;

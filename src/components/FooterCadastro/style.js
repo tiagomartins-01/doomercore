@@ -21,7 +21,7 @@ export const FooterBase = styled.footer`
     width: 30%;
     margin-right: 50px;
   }
-    margin-bottom: 50px;
+    margin-bottom: 0px;
  
   }
 `;

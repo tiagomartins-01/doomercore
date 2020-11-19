@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import {Link} from 'react-router-dom';
-import PageDefault from '../../../components/PageDefault';
+import PageCadastro from '../../../components/PageCadastro';
 import FormField from '../../../components/FormField';
 import ButtonLink from '../../../components/Button';
 
@@ -29,7 +29,7 @@ import ButtonLink from '../../../components/Button';
   }
 
     return(
-      <PageDefault>
+      <PageCadastro>
         <h1>
           Cadastro de Categoria:
         </h1>
@@ -90,7 +90,7 @@ import ButtonLink from '../../../components/Button';
           })}
         </ul>
         
-      </PageDefault>
+      </PageCadastro>
     );
   }
 
