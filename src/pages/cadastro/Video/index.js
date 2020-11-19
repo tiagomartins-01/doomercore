@@ -33,11 +33,11 @@ function CadastroVideo(){
           </ButtonLink>
           </form>
 
-        <ButtonLink>
-          <a  href="/cadastro/Categoria">
-            Cadastrar Categoria
-          </a>
-        </ButtonLink>
+        <a  href="/cadastro/Categoria">
+          <ButtonLink>
+              Cadastrar Categoria
+          </ButtonLink>
+        </a>
       </PageCadastro>
     )
   }

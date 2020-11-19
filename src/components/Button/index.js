@@ -11,10 +11,11 @@ const Button = styled.button`
         font-weight: bold;
         font-size: 16px;
         outline: none;
-        border-radius: 5px;
+        border-radius: 240px;
         text-decoration: none;
         display: inline-block;
         transition: opacity .3s;
+        margin-bottom: 25px;
 
         &:hover,
         &:focus {
