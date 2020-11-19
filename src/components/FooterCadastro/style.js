@@ -17,9 +17,7 @@ export const FooterBase = styled.footer`
   
   @media (max-width: 800px) {
     .Logo{
-    height: 25%;
-    width: 30%;
-    margin-right: 50px;
+    display: none;
   }
     margin-bottom: 0px;
  

@@ -74,12 +74,6 @@ import ButtonLink from '../../../components/Button';
 
         </form>
 
-        <a href="/">
-          <ButtonLink> 
-            Ir para Home
-          </ButtonLink>
-        </a>
-
         <ul>
           {categorias.map((categoria, indice) => {
             return (

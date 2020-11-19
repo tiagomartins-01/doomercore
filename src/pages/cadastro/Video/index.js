@@ -32,12 +32,6 @@ function CadastroVideo(){
             Cadastrar
           </ButtonLink>
           </form>
-
-        <a  href="/cadastro/Categoria">
-          <ButtonLink>
-              Cadastrar Categoria
-          </ButtonLink>
-        </a>
       </PageCadastro>
     )
   }

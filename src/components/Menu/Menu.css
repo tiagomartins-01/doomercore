@@ -3,12 +3,11 @@
         width: 25%;
         height: 30%;
         max-width: 706px;
+        position: static;
       }
       @media (max-width: 800px) {
         .Logo {
-          width: 60%;
-          height: 65%;
-          margin-left: 35px;
+          width: 1313px;
           max-width: 105px;
         }
       }
@@ -44,41 +43,5 @@
         body {
           --bodyPaddingTop: 40px;
           padding-top: var(--bodyPaddingTop);
-        }
-      }
-      
-      .ButtonLink {
-        color: rgb(0,83,0);
-        border: 1px solid rgb(0,83,0);
-        background: var(--black);
-        box-sizing: border-box;
-        cursor: pointer;
-        padding: 16px 24px;
-        font-style: normal;
-        font-weight: bold;
-        font-size: 16px;
-        outline: none;
-        border-radius: 5px;
-        text-decoration: none;
-        display: inline-block;
-        transition: opacity .3s;
-        text-align: center;
-      }
-      .ButtonLink:hover,
-      .ButtonLink:focus {
-        opacity: .5;
-      }
-      
-      @media (max-width: 800px) {
-        a.ButtonLink {
-          position: fixed;
-          left: 0;
-          right: 0;
-          bottom: 0;
-          color: var(--white);
-          background: rgb(0, 83, 0);
-          border-radius: 0;
-          border: 0;
-          text-align: center;
         }
       }
