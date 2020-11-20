@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { Link } from 'react-router-dom';
-import * as FcIcons from 'react-icons/fc';
+import * as IoIcons from 'react-icons/io';
 import { SideBarData } from './SideBarData';
 import * as AiIcons from 'react-icons/ai';
 import './NavBar.css';
@@ -15,7 +15,7 @@ function NavBar() {
         <IconContext.Provider value={{ color: '#fff'}}>
             <div className="navbar">
                 <Link to='#' className='menu-bars'>
-                    <FcIcons.FcMenu onClick={showSidebar} />
+                    <IoIcons.IoMdMenu onClick={showSidebar} />
                 </Link>
             </div>
 

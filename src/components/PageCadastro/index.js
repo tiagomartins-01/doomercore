@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from '../Header';
-import FooterCadastro from '../FooterCadastro';
+import Footer from '../Footer';
 import Main from '../Main';
 
 function PageCadastro({children}){
@@ -10,7 +10,7 @@ function PageCadastro({children}){
                 <Main>
                     {children}
                 </Main>
-            <FooterCadastro />
+            <Footer />
         </>
     );
 }

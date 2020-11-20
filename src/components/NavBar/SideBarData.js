@@ -1,5 +1,4 @@
 import React from 'react';
-import * as FcIcons from 'react-icons/fc';
 import * as AiIcons from 'react-icons/ai';
 import * as IoIcons from 'react-icons/io';
 
@@ -21,7 +20,7 @@ export const SideBarData = [
     {
         title: 'Cadastrar Categoria',
         path: '/cadastro/categoria',
-        icon: <IoIcons.IoMdPeople />,
+        icon: <IoIcons.IoIosPaper />,
         cName: 'nav-text'
     },
 ];
