@@ -1,13 +1,12 @@
 import React from 'react';
-import PageCadastro from '../../../components/PageCadastro';
-import {Link} from 'react-router-dom';
+import PageDefault from '../../../components/PageDefault';
 import FormField from '../../../components/FormField';
 import ButtonLink from '../../../components/Button';
 
 function CadastroVideo(){
 
     return(
-      <PageCadastro>
+      <PageDefault>
         <h1>Cadastro de Video</h1>
         <form>
         <FormField
@@ -32,7 +31,7 @@ function CadastroVideo(){
             Cadastrar
           </ButtonLink>
           </form>
-      </PageCadastro>
+      </PageDefault>
     )
   }
 

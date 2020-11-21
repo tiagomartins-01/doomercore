@@ -17,6 +17,9 @@ const Container = styled.ul`
     transform: initial;
     &:before {
       font-size: 30px;
+      @media(max-width: 800px){
+      display: none;
+    }
     }
   }
   
